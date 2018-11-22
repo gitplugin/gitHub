@@ -1,1 +1,2 @@
 test string
+TES-1 smart commit testing
