@@ -2,3 +2,4 @@ test string
 TES-1 smart commit testing
 TES-1 smart commit testing2
 TES-1 smart commit testing3
+TES-1 smart commit testing4
